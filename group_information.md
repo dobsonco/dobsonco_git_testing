@@ -4,4 +4,4 @@ Aadarsh: swamina9
 Nicholas: Nick-McComb
 Billy: voigtwil
 luke: joneslu3
-Jack: holscherj
+Jack Holscher: holscherj holsche2@msu.edu
